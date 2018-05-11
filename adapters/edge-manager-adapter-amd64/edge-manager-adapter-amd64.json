@@ -1,0 +1,14 @@
+{
+    "architecture": "linux64amd",
+    "deploy_command": "",
+    "description": "",
+    "logs_command": "cat edge-manager-adapter.log",
+    "name": "edge-manager-adapter-amd64",
+    "os": "",
+    "protocol": "",
+    "start_command": "./start.sh \u003csystem key\u003e \u003csystem secret\u003e edge-manager-adapter clearblade",
+    "status_command": "./status.sh",
+    "stop_command": "./stop.sh",
+    "undeploy_command": "",
+    "version": 8
+}
