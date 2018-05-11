@@ -1,0 +1,34 @@
+{
+    "auth": true,
+    "deployments": [
+        {
+            "assets": [
+                {
+                    "asset_class": "adaptors",
+                    "asset_id": "",
+                    "deployment": "edgmonDeployment",
+                    "member": "edgmonDeployment_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "edgmonDeployment",
+                    "member": "edgmonDeployment_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "",
+            "edges": [
+                "Edge1"
+            ],
+            "name": "edgmonDeployment"
+        }
+    ],
+    "description": "",
+    "messaging_url": "nxp.clearblade.com:1883",
+    "name": "edge-monitor",
+    "platform_url": "https://nxp.clearblade.com",
+    "system_key": "9cb498af0bdae4f48afaa3ae9d49",
+    "system_secret": "9CB498AF0BCAEECDB4F6C1F5F3B801"
+}
