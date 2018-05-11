@@ -1,0 +1,23 @@
+{
+    "assets": [
+        {
+            "asset_class": "adaptors",
+            "asset_id": "",
+            "deployment": "edgmonDeployment",
+            "member": "edgmonDeployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "edgmonDeployment",
+            "member": "edgmonDeployment_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "",
+    "edges": [
+        "Edge1"
+    ],
+    "name": "edgmonDeployment"
+}
