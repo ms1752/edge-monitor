@@ -8,14 +8,14 @@ function edgmonSetup(req, resp){
         // User Credentials for the default Portal Editor User
         email: "edgmon_editor@clearblade.com",
         password: "clearblade", // recommended to change this to something unique
-        roles: ["edgmon Portal Editor"]
+        roles: ["edgmon Portal Editor", "edgmon Edge Monitor"]
     }];
     
     const DEFAULT_DEVICES = [{
         // Default device used for by the edge-manager-adapter
         device_name: "edge-manager-adapter",
         active_key: "clearblade", // recommended to change this to something unique (if changed, you will need to update the active key in the adapter config, see the README.md for full details)
-        roles: ["edgmon Edge Manager Adapter", "edgmon Edge Monitor"],
+        roles: ["edgmon Edge Manager Adapter"],
         type: "adapter"
     }];
     
