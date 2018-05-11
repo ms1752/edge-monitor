@@ -1,0 +1,14 @@
+{
+    "current_version": 15,
+    "dependencies": "clearblade,log",
+    "logging_enabled": "true",
+    "name": "edgmonUtil",
+    "params": [],
+    "permissions": {
+        "edgmon Edge Monitor": 1,
+        "edgmon Portal Editor": 0,
+        "edgmon Portal Viewer": 0
+    },
+    "run_user": "",
+    "source": "edgmonUtil.js"
+}
