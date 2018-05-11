@@ -1,0 +1,53 @@
+{
+    "Description": "",
+    "ID": "9ae8afaf0b82b3c1d7af9e939f02",
+    "Name": "edgmon Portal Editor",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 0,
+                "Name": "edgmonUtil",
+                "SystemKey": "9cb498af0bdae4f48afaa3ae9d49"
+            }
+        ],
+        "Collections": [],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 1
+        },
+        "Portals": [
+            {
+                "Level": 5,
+                "Name": "Edge Monitor",
+                "SystemKey": "9cb498af0bdae4f48afaa3ae9d49"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
