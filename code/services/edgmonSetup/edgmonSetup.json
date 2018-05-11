@@ -1,0 +1,10 @@
+{
+    "current_version": 18,
+    "dependencies": "edgmon_setup_assistant,edgmon_constants,log",
+    "logging_enabled": "true",
+    "name": "edgmonSetup",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "edgmonSetup.js"
+}
