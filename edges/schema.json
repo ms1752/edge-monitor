@@ -1,0 +1,14 @@
+{
+    "columns": [
+        {
+            "ColumnName": "state",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "city",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
