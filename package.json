@@ -1,0 +1,25 @@
+{
+    "author": {
+        "email": "msprague@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Edge monitor",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://i.imgur.com/F5tIPo9.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "edge",
+        "monitoring",
+        "management"
+    ],
+    "license": "MIT",
+    "name": "edge-monitor",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0"
+}
