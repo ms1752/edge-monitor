@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "http,clearblade,log",
+    "description": "",
+    "name": "edgmon_setup_assistant",
+    "version": 11,
+    "visibility": "system"
+}
