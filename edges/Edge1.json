@@ -1,0 +1,15 @@
+{
+    "city": "Austin",
+    "description": null,
+    "last_seen_version": "4.0-rc3",
+    "location": null,
+    "mac_address": null,
+    "name": "Edge1",
+    "policy_name": null,
+    "resolver_func": null,
+    "state": "Texas",
+    "sync_edge_tables": null,
+    "system_key": "9cb498af0bdae4f48afaa3ae9d49",
+    "system_secret": "9CB498AF0BCAEECDB4F6C1F5F3B801",
+    "token": "PR27549Gl1W7y7R4Q1QG9mJjl27pbW5"
+}
